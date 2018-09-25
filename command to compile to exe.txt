@@ -1,0 +1,5 @@
+"%SystemRoot%\Microsoft.NET\Framework64\v3.5\csc" swapmouse.cs
+
+With the icon
+
+"%SystemRoot%\Microsoft.NET\Framework64\v3.5\csc" -win32icon:switch.ico swapmouse.cs
